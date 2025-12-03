@@ -149,6 +149,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c0664067cd9c6b4887cd85a413250e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Sexplayercontol
+  moveSpeed: 50
+  nowSpeed: 0
+  maxSpeed: 10
+  HalfMoveLimit: 5.5
 --- !u!212 &511001580
 SpriteRenderer:
   m_ObjectHideFlags: 0
